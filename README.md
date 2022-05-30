@@ -12,7 +12,7 @@
 
 ---
 
-## Recent Updates
+Website initialization
 
 #### Release 0.0.1 :
 
